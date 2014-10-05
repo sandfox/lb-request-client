@@ -1,13 +1,16 @@
 {
   "name": "lb-request-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A loadbalancing http request client based vaguely on some ideas from netlfix's ribbon",
   "main": "index.js",
   "directories": {
     "example": "examples"
   },
   "repository":
-  {"git": "git@github.com:sandfox/lb-request-client.git"},
+  {
+    "type": "git",
+    "url": "git@github.com:sandfox/lb-request-client.git"
+  },
   "dependencies": {
     "request": "^2.44.0",
     "roundround": "^0.2.0"
