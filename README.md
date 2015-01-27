@@ -1,5 +1,9 @@
 # lb-request-client
 
+__DEPRECATED IN FAVOUR OF sandfox/biws__
+
+_Left here for history_
+
 Pretty much a wrapper around mikeal's request for now
 
 Providers a slightly reduced interface where the host:ip is
